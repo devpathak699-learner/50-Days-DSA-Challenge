@@ -32,11 +32,11 @@ The goal is to build consistency, strengthen problem-solving skills, and improve
 50-Days-DSA-Challenge/
 │
 ├── Day-01/
-│   ├── Reverse-Linked-List.java
+│   ├── Reverse-Linked-List.c
 │   └── Missing-Number.java
 │
 ├── Day-02/
-│   ├── Middle-of-the-Linked-List.java
+│   ├── Middle-of-the-Linked-List.c
 │   └── Add-Digits.java
 │
 └── README.md
