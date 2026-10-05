@@ -24,7 +24,8 @@ The goal is to build consistency, strengthen problem-solving skills, and improve
 | --------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- |
 | Day 01    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)             | [Missing Number](https://leetcode.com/problems/missing-number/) | ✅ Completed |
 | Day 02    | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/)         | ✅ Completed |
-| Day 03–50 | To be updated                                                                         | To be updated                                                   | ⏳ Upcoming  |
+| Day 03    | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)           | [Perfect Number](https://leetcode.com/problems/perfect-number/) | ✅ Completed |
+| Day 04–50 | To be updated                                                                             | To be updated                                                   | ⏳ Upcoming  |
 
 ## 📂 Repository Structure
 
@@ -39,12 +40,16 @@ The goal is to build consistency, strengthen problem-solving skills, and improve
 │   ├── Middle-of-the-Linked-List.c
 │   └── Add-Digits.java
 │
+├── Day-03/
+│   ├── Merge-Two-Sorted-Lists.c
+│   └── Perfect-Number.java
+│
 └── README.md
 ```
 
 ## 📈 My Progress
 
-**2 / 50 Days Completed**
+**3 / 50 Days Completed**
 
 Every day is an opportunity to learn something new, improve my approach, and become a better problem solver.
 
