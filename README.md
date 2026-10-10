@@ -29,6 +29,7 @@ The goal is to build consistency, strengthen problem-solving skills, and improve
 | Day 05    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | ✅ Completed |
 | Day 06    | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ Completed |
 | Day 07    | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Plus One](https://leetcode.com/problems/plus-one/) | ✅ Completed |
+| Day 08    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | ✅ Completed |
 
 ## 📂 Repository Structure
 
@@ -55,12 +56,16 @@ The goal is to build consistency, strengthen problem-solving skills, and improve
 │   ├── Rotate-List.c
 │   └── Plus-One.java
 │
+├── Day-08/
+│   ├── Odd-Even-Linked-List.java
+│   └── Excel-Sheet-Column-Number.java
+│
 └── README.md
 ```
 
 ## 📈 My Progress
 
-**7 / 50 Days Completed**
+**8 / 50 Days Completed**
 
 Every day is an opportunity to learn something new, improve my approach, and become a better problem solver.
 
