@@ -30,6 +30,7 @@ The goal is to build consistency, strengthen problem-solving skills, and improve
 | Day 06    | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ Completed |
 | Day 07    | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Plus One](https://leetcode.com/problems/plus-one/) | ✅ Completed |
 | Day 08    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | ✅ Completed |
+| Day 09    | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Nth Digit](https://leetcode.com/problems/nth-digit/) | ✅ Completed |
 
 ## 📂 Repository Structure
 
@@ -60,12 +61,16 @@ The goal is to build consistency, strengthen problem-solving skills, and improve
 │   ├── Odd-Even-Linked-List.java
 │   └── Excel-Sheet-Column-Number.java
 │
+├── Day-09/
+│   ├── Swapping-Nodes-in-a-Linked-List.c
+│   └── Nth-Digit.java
+│
 └── README.md
 ```
 
 ## 📈 My Progress
 
-**8 / 50 Days Completed**
+**9 / 50 Days Completed**
 
 Every day is an opportunity to learn something new, improve my approach, and become a better problem solver.
 
